@@ -261,6 +261,5 @@ void main() {
     if (uspjeh_Irazred != nullptr)
         cout << *uspjeh_Irazred << crt;
 
-    cin.get();
     system("pause>0");
 }

@@ -31,7 +31,7 @@ char* GetNizKaraktera(const char* sadrzaj, bool dealociraj = false) {
     if (dealociraj)
         delete[]sadrzaj;
     return temp;
-} // Implementirana tacna funkcija od strane profesora
+} 
 
 bool ValidirajEmail(string email) {
 
